@@ -2,7 +2,7 @@
 
 **`Futura Desenvolvedora Web`**
 
-Olá! Meu nome é Laura e estou no quarto período de Análise e Desenvolvimento de Sistemas. Estou começando a focar minha carreira na área de tecnologia, especialmente no desenvolvimento web, e venho aprendendo e explorando novas ferramentas todos os dias. Além dos estudos, também compartilho minha rotina e aprendizados com o objetivo de inspirar outras mulheres que estão trilhando esse mesmo caminho no meu perfil do Instagram "[Laura Gomes](https://www.instagram.com/dev.lauragomes/)". Ah, e como uma boa programadora, amo cafés e tenho três gatinhas que tornam meus dias mais leves e divertidos. Estou animada com tudo que ainda tenho para construir na área tech e feliz por poder compartilhar um pouco dessa jornada por aqui também!
+Olá! Meu nome é Laura e estou no quarto período de Análise e Desenvolvimento de Sistemas. Estou começando a focar minha carreira na área de tecnologia, especialmente no desenvolvimento web, e venho aprendendo e explorando novas ferramentas todos os dias. Além dos estudos, também compartilho minha rotina e aprendizados com o objetivo de inspirar outras mulheres que estão trilhando esse mesmo caminho no meu perfil do Instagram [Laura Gomes](https://www.instagram.com/dev.lauragomes/). Ah, e como uma boa programadora, amo cafés e tenho três gatinhas que tornam meus dias mais leves e divertidos. Estou animada com tudo que ainda tenho para construir na área tech e feliz por poder compartilhar um pouco dessa jornada por aqui também!
 
 ### 🤖 Linguagens e Tecnologias
 
